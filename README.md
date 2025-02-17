@@ -103,7 +103,7 @@ As a result of this, the guide's structure may be odd and the wording</details> 
 * Now use your **Hearthstone** to return to [**Orgrimmar**](https://i.imgur.com/KFRh028.jpeg), saves you the time of running back to **Stranglethorn** and waiting for the Zeppelin!  
 
 * Travel to [**The Zoram Strand**](https://imgur.com/IPUXSPf) 🖼️ from **Orgrimmar**  
-  If you've been here before, don't forget that you can fly to either [**Splintertree Post**](https://imgur.com/ZUB7o72) 🖼️ or [**Zoram'gar Outpost**](https://imgur.com/Ygt4AzG) 🖼️ (which is directly on **The Zoram Strand**).  
+> If you've been here before, don't forget that you can fly to either [**Splintertree Post**](https://imgur.com/ZUB7o72) 🖼️ or [**Zoram'gar Outpost**](https://imgur.com/Ygt4AzG) 🖼️ (which is directly on **The Zoram Strand**).  
 
 * Kill Wrathtail Sea Witch/Sorceress/Razortail/Wave Rider until the **Torta's Egg** drops  
 
@@ -128,12 +128,12 @@ As a result of this, the guide's structure may be odd and the wording</details> 
 
 * Take the south-facing zeppelin to [**Thunder Bluff**](https://imgur.com/J1YA2gS) 🖼️ (talk to the dockmasters at the zeppelin tower if unsure)  
 
-* Leave [**Thunder Bluff**](https://imgur.com/A6Ezv8K) 🖼️ after you've unlocked the FP and head to **The Darkmoon Faire** in [**Mulgore**](https://imgur.com/0RK7WJ8)  
+* Leave [**Thunder Bluff**](https://imgur.com/A6Ezv8K) 🖼️ after you've unlocked the FP and head to **The Darkmoon Faire** in [**Mulgore**](https://imgur.com/0RK7WJ8) 🖼️  
 
 * Pick up the quest called **Torta's Egg** from [**Silas Darkmoon**](https://imgur.com/nUoQzP0) 🖼️  
 
 * Navigate your way to the western shore of [**The Zoram Strand** ](https://imgur.com/ZZcmZlu) 🖼️ in **Ashenvale**  
-  Don't forget that as horde you have multiple flight path options that bring you closer to the destination such as **Crossroads**, **Splintertree Post**, and directly to **The Zhoram Strand**!  
+> Don't forget that as horde you have multiple flight path options that bring you closer to the destination such as **Crossroads**, **Splintertree Post**, and directly to **The Zhoram Strand**!  
 
 * At **The Zoram Strand** kill Wrathtail Sea Witch/Sorceress/Razortail/Wave Rider until **Torta's Egg** drops  
 
