@@ -62,9 +62,9 @@ As a result of this, the guide's structure and the wording of details might be o
 
 * Take the boat at the south dock to [**Darkshore**](https://imgur.com/XuSfwnF) 🖼️
 
-* Travel from **Darkshore** to [**Mulgore**](https://imgur.com/LxAK6lx) 🖼️ 
-  **Be careful** when crossing the border into **The Barrens**, stay to the east of the road and you should see a path through a broken fence which is safe for alliance to pass through
-  **Be careful** around **Crossroads** and the straight path north of it, as there are horde outposts and guards along this road
+* Travel from **Darkshore** to [**Mulgore**](https://imgur.com/LxAK6lx) 🖼️   
+  **Be careful** when crossing the border into **The Barrens**, stay to the east of the road and you should see a path through a broken fence which is safe for alliance to pass through  
+  **Be careful** around **Crossroads** and the straight path north of it, as there are horde outposts and guards along this road  
   
 * **Optional:** If you want, make a detour and grab the **Azshara** FP on your way to **Mulgore**, this is useful for when you're questing, and can be used to fly back up to **Ashenvale** from **Ratchet**. Just be careful in east region of [**Ashenvale**](https://imgur.com/G8RY2P3) 🖼️, there are Horde guards & mobs that will aggro you, even on the road!
 
