@@ -1,5 +1,6 @@
 This guide has been moved over from Discord onto Github to prevent future issues.  
-As a result of this, the guide's structure may be odd and the wording</details> might be odd due to character limitations from Discord
+As a result of this, the guide's structure and the wording of details might be odd due to character limitations from when it was a Discord guide
+
 # Welcome to the Swift Riding Turtle mount guide!
 
 **Here's a list of all the useful information related to the Darkmoon Faire and getting your very own turtle mount.**
