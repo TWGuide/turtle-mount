@@ -88,7 +88,7 @@ As a result of this, the guide's structure may be odd and the wording/details mi
 
 ### This guide does not consider HC Characters  
 
-### Blue texts are links to images 🖼️ showing routes and locations (and one's a short vid :film_frames:).  
+### Blue texts are links to images 🖼️ showing routes and locations (and one's a short vid 🎞️).  
 
 * This guide assumes that you have set your **Hearthstone** to [**Orgrimmar**](<https://imgur.com/KFRh028>) 🖼️ as you'll be able to use it later to save time.  
 
