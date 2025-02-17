@@ -94,7 +94,7 @@ As a result of this, the guide's structure may be odd and the wording/details mi
 
 * Starting from **Orgrimmar**, leave the city and head to the [**East Zeppelin Tower**](<https://imgur.com/a/MAhO6h3>) 🖼️ in **Durotar** and take the zeppelin on the *north dock* to **Stranglethorn Vale**.  
 
-* When loaded into **Stranglethorn**, immediately [**jump off the zeppelin**](<https://imgur.com/a/Ikra24c>) :film_frames: and fall into the sea, then follow [**this route**](<https://imgur.com/a/obWbtPB>) 🖼️  
+* When loaded into **Stranglethorn**, immediately [**jump off the zeppelin**](<https://imgur.com/a/Ikra24c>) 🎞️ and fall into the sea, then follow [**this route**](<https://imgur.com/a/obWbtPB>) 🖼️  
 
 * **Be careful** of alliance camps and guards along the way from **Stranglethorn** to **Elwynn**!  
 
