@@ -18,6 +18,7 @@ As a result of this, the guide's structure and the wording of details might be o
 
 > [!NOTE]
 > Note that the turtle mount is not nearly as useful (besides mount cost savings) to high mobility classes, such as Hunters, Shamans, and Druids.  
+>These classes already move faster than the turtle will before you reach level 40.
 
 ### Please select week and faction using the buttons below for instructions.  
 
