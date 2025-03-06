@@ -12,6 +12,7 @@ As a result of this, the guide's structure and the wording of details might be o
 * The turtle mount is a reward from the quest called **[Torta's Egg](https://database.turtle-wow.org/?quest=40302)** offered by **Silas Darkmoon** and takes roughly half an hour to an hour to complete.  
 
 * The turtle mount, just like all other mounts on TurtleWoW, has an adaptive speed based on your level or riding skill.   
+> [!NOTE]
 >   Before you have any riding skill, the turtle's speed is 50% of your current level, e.g. at level 28 you would go at +14% speed vs on foot.  
 >   Once a riding skill level is trained, the turtle will adjust to the speed you've learned (60% and 100%).
 
